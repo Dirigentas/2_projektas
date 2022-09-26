@@ -1,0 +1,19 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Pirmas rimtas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4002 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aras",
+  "license": "ISC",
+  "dependencies": {
+    "server": "^1.0.37"
+  },
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
