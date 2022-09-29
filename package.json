@@ -4,7 +4,7 @@
   "description": "Pirmas rimtas",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --port=4002 --host=localhost",
+    "dev": "dead-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
